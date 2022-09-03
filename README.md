@@ -59,13 +59,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-s-cmd&show_icons=true&locale=en&layout=compact" alt="anand-s-cmd" /></p>
 
 
+<h3> 🤝🏻 Connect with Me </h3>
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/anand-h-06b1b9127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-h-06b1b9127" height="30" width="40" /></a>
-<a href="https://kaggle.com/anandhuded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anandhuded" height="30" width="40" /></a>
-<a href="https://fb.com/anand.huded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anand.huded" height="30" width="40" /></a>
+<!--<a href="https://"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-www.devismail.netlify.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/anand-h-06b1b9127/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--white?style=social&logo=linkedin"></a>
+<a href="mailto:a1111nand@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
 <a href="https://medium.com/@a1111nand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@a1111nand" height="30" width="40" /></a>
-  <a href="mailto:a1111nand@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
+  <a href="https://kaggle.com/anandhuded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anandhuded" height="30" width="40" /></a>  
+<a href="https://fb.com/anand.huded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anand.huded" height="30" width="40" /></a>
 </p>
