@@ -67,4 +67,5 @@
 <a href="https://kaggle.com/anandhuded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anandhuded" height="30" width="40" /></a>
 <a href="https://fb.com/anand.huded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anand.huded" height="30" width="40" /></a>
 <a href="https://medium.com/@a1111nand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@a1111nand" height="30" width="40" /></a>
+  <a href="mailto:a1111nand@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
 </p>
