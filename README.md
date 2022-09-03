@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anand</h1>
 <h3> 👨🏻‍💻 About Me</h3>
-<h3 align="center">Software Engineer. Skilled in DATA SCINCE, MACHINE LEARNING STATISTICAL ANALYSIS, DEEP LEARNING AND PYTHON. And being a learner having enthusiasm on solving real world Data Science problems.</h3>
+<h3 align="center">I am a Software Engineer, skilled in DATA SCINCE, MACHINE LEARNING STATISTICAL ANALYSIS, DEEP LEARNING AND PYTHON. And being a learner having enthusiasm on solving real world Data Science problems.</h3>
 
 
 <h3 align="left">Programming Languages:</h3>
